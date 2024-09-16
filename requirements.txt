@@ -1,0 +1,2 @@
+appscript==1.2.5
+lxml==5.3.0
